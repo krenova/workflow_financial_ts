@@ -1,0 +1,11 @@
+
+
+library/__pycache__/
+scripts_old/
+
+*.encr
+
+*.pyc
+
+*.csv
+*.json
